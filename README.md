@@ -1,1 +1,1 @@
-# kanas.io
+kano
